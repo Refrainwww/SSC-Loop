@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use SSC-Loop, please cite the accompanying paper."
+title: "SSC-Loop: Signed-Graph Recommendation as Structural Consistency Maximization"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Zifan
+    orcid: "https://orcid.org/0009-0002-0438-2969"
+  - family-names: Chen
+    given-names: Siyu
+    orcid: "https://orcid.org/0009-0003-7342-4613"
+  - family-names: Song
+    given-names: Wenzhuo
+    orcid: "https://orcid.org/0000-0002-1607-3402"
+repository-code: "https://github.com/Refrainwww/SSC-Loop"
+date-released: 2026-07-03

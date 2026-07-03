@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and editors
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Datasets and generated artifacts
+data/
+datasets/
+runs/
+checkpoints/
+output/
+log/
+logs/
+*.pt
+*.pth
+*.ckpt
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
